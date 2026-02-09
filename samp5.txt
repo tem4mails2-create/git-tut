@@ -1,0 +1,2 @@
+// samp file- 5
+welcome 
